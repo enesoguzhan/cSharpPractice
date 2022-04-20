@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch-Case", "Switch-Case\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For-Loop", "For-Loop\For-Loop.csproj", "{A9503FC4-76A8-4443-90D4-B4F209450D72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while-foreach", "while-foreach\while-foreach.csproj", "{DD379DE3-425E-4A5F-82CF-F57B432979D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "while-foreach", "while-foreach\while-foreach.csproj", "{DD379DE3-425E-4A5F-82CF-F57B432979D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziler", "diziler\diziler.csproj", "{FEFB821C-0737-4BF9-99AD-12AE66FFF290}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DD379DE3-425E-4A5F-82CF-F57B432979D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD379DE3-425E-4A5F-82CF-F57B432979D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD379DE3-425E-4A5F-82CF-F57B432979D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFB821C-0737-4BF9-99AD-12AE66FFF290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFB821C-0737-4BF9-99AD-12AE66FFF290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFB821C-0737-4BF9-99AD-12AE66FFF290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFB821C-0737-4BF9-99AD-12AE66FFF290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
