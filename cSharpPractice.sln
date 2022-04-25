@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diziler", "diziler\diziler.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diziler-array", "diziler-array\diziler-array.csproj", "{3FD6C9AC-97C6-4D35-A7FB-1A980A7EB2CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodlar", "methodlar\methodlar.csproj", "{58FE0D2B-BB32-4CA2-B0FF-E1DC783BE5E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodlar", "methodlar\methodlar.csproj", "{58FE0D2B-BB32-4CA2-B0FF-E1DC783BE5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodOverloading", "metodOverloading\metodOverloading.csproj", "{D19E54B6-ADC6-4983-8875-3543403A047E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{58FE0D2B-BB32-4CA2-B0FF-E1DC783BE5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58FE0D2B-BB32-4CA2-B0FF-E1DC783BE5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58FE0D2B-BB32-4CA2-B0FF-E1DC783BE5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19E54B6-ADC6-4983-8875-3543403A047E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19E54B6-ADC6-4983-8875-3543403A047E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19E54B6-ADC6-4983-8875-3543403A047E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19E54B6-ADC6-4983-8875-3543403A047E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
